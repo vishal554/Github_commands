@@ -1,10 +1,10 @@
 # Github_commands
 Basic Github commands and its brief explaination
 
-### Initialize a Repository from existing code
+### Initialize a Repository to enable tracking of files
 	git init
 
-### for checking the status of the repo
+### for checking the status of the directory/Repository
 	git status
 
 ### add .gitignore file if u want to ignore a file from being tracked by git, you can use regular expressions as well
